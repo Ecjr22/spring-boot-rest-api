@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h3>Springboot REST API</h3>
+<h1>Welcome to the Home Page</h1>
 
 <hr>
 
