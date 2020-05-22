@@ -78,19 +78,19 @@
 			<artifactId>javax.servlet.jsp-api</artifactId>
 			<version>2.3.3</version>
 		</dependency>
-
-		<!-- to compensate for java 9 not including jaxb -->
+		
 		<dependency>
-		    <groupId>javax.xml.bind</groupId>
-		    <artifactId>jaxb-api</artifactId>
-		    <version>2.3.0</version>
+		    <groupId>javax.servlet.jsp.jstl</groupId>
+		    <artifactId>jstl-api</artifactId>
+		    <version>1.2</version>
 		</dependency>
+		
 
 	</dependencies>
 
 	<build>
 
-		<finalName>spring-boot-rest-api</finalName>
+		<finalName>spring-application</finalName>
 
 		<plugins>
 
