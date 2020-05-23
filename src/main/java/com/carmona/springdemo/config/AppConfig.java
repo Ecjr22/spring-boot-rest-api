@@ -28,14 +28,14 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
 @EnableTransactionManagement
 @ComponentScan("com.carmona.springdemo")
 @PropertySource({ "classpath:persistence-mysql.properties" })
-public class DemoAppConfig implements WebMvcConfigurer {
+public class AppConfig implements WebMvcConfigurer {
 
 	@Autowired
 	private Environment env;
 	
 	private Logger logger = Logger.getLogger(getClass().getName());
 	
-	// ViewResolver
+	// ViewResolver for MVC
 	@Bean
 	public ViewResolver viewResolver() {
 		
