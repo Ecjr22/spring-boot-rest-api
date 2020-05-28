@@ -1,4 +1,4 @@
-package com.carmona.springdemo.config;
+package com.carmona.spring.config;
 
 import javax.sql.DataSource;
 

@@ -1,8 +1,8 @@
-package com.carmona.springdemo.dao;
+package com.carmona.spring.dao;
 
 import java.util.List;
 
-import com.carmona.springdemo.entity.Customer;
+import com.carmona.spring.entity.Customer;
 
 public interface CustomerDAO {
 

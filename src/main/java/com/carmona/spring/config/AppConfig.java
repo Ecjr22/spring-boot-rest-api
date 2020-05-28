@@ -1,4 +1,4 @@
-package com.carmona.springdemo.config;
+package com.carmona.spring.config;
 
 import java.beans.PropertyVetoException;
 import java.util.logging.Logger;

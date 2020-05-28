@@ -1,4 +1,4 @@
-package com.carmona.springdemo.controller;
+package com.carmona.spring.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

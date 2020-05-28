@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.carmona.springdemo</groupId>
+	<groupId>com.carmona.spring</groupId>
 	<artifactId>spring-security-application</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>

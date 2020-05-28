@@ -1,4 +1,4 @@
-package com.carmona.springdemo.entity;
+package com.carmona.spring.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

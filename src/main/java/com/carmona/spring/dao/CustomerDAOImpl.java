@@ -1,4 +1,4 @@
-package com.carmona.springdemo.dao;
+package com.carmona.spring.dao;
 
 import java.util.List;
 
@@ -8,7 +8,7 @@ import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.carmona.springdemo.entity.Customer;
+import com.carmona.spring.entity.Customer;
 
 @Repository
 public class CustomerDAOImpl implements CustomerDAO {

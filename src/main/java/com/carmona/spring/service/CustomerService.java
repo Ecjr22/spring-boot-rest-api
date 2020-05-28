@@ -1,8 +1,8 @@
-package com.carmona.springdemo.service;
+package com.carmona.spring.service;
 
 import java.util.List;
 
-import com.carmona.springdemo.entity.Customer;
+import com.carmona.spring.entity.Customer;
 
 public interface CustomerService {
 

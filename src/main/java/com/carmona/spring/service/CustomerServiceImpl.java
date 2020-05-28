@@ -1,4 +1,4 @@
-package com.carmona.springdemo.service;
+package com.carmona.spring.service;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.carmona.springdemo.dao.CustomerDAO;
-import com.carmona.springdemo.entity.Customer;
+import com.carmona.spring.dao.CustomerDAO;
+import com.carmona.spring.entity.Customer;
 
 @Service
 public class CustomerServiceImpl implements CustomerService {
