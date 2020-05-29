@@ -23,7 +23,7 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
 @Configuration
 @EnableWebMvc
 @EnableTransactionManagement
-@ComponentScan("com.carmona.springdemo")
+@ComponentScan("com.carmona.spring")
 @PropertySource({ "classpath:persistence-mysql.properties" })
 public class AppConfig implements WebMvcConfigurer {
 
